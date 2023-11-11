@@ -12,9 +12,9 @@
 ---
 
 🛠 **Experience**:
-- **Amazon Web Services** - Software Development Intern
-- **Dover Corporation** - IT Intern
-- **Motorola** - Systems Engineering Intern
+- **Amazon Web Services** - Program Manager Intern
+- **Dover Corporation** - Project Manager Intern
+- **Motorola** - Software Engineering Intern
 
 ---
 
