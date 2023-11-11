@@ -31,7 +31,7 @@
 
 ---
 
-🔗 **Connect with me**:
+🔗 **Let's Connect**:
 - [**Linkedin**](https://www.linkedin.com/in/rahul-koull/)
 - [**Github**](https://github.com/rahulkoul123)
 
