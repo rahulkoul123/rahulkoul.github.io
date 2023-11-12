@@ -1,5 +1,3 @@
-# rahulkoul.github.io
-
 # Hi 👋🏼 I’m Rahul!
 
 ### I’m a Senior at Vanderbilt University studying Computer Science and Human & Organizational Development.
